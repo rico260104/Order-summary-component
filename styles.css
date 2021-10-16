@@ -82,7 +82,7 @@ button {
   padding-bottom: 20px;
   background-color: white;
   margin: 20px;
-  border-radius: 5px;
+  border-radius: 15px;
   box-shadow: 3px 3px 3px hsl(228, 45%, 44%, 0.15);
 }
 .container h1 {
@@ -91,7 +91,7 @@ button {
 }
 .container img.hero {
   width: 100%;
-  border-radius: 5px 5px 0;
+  border-radius: 15px 15px 0;
 }
 .container .pricing {
   margin: 30px auto;
